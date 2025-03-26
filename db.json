@@ -1,0 +1,139 @@
+{
+  "games": [
+    {
+      "title": "Climbing Everest",
+      "image": "https://57hours.com/wp-content/uploads/2021/05/everest-summit-pose-e1672278501365.jpg",
+      "description": "Begin your journey at the base camp and climb your way to success",
+      "availableAt": ""
+    },
+    {
+      "title": "Museum Escape Room",
+      "image": "https://www.accartbooks.com/app/uploads/books/9781910807194-04-1.jpg",
+      "description": "Navigate through historical artifacts and solve ancient puzzles",
+      "availableAt": ""
+    },
+    {
+      "title": "Time Machine",
+      "image": "https://images.unsplash.com/photo-1501139083538-0139583c060f?auto=format&fit=crop&q=80&w=800&h=600",
+      "description": "Travel through different eras and master the concepts of time",
+      "availableAt": ""
+    },
+    {
+      "title": "Unsolved Case",
+      "image": "https://images.unsplash.com/photo-1577495508326-19a1b3cf65b7?auto=format&fit=crop&q=80&w=800&h=600",
+      "description": "Investigate clues and solve the mysterious competition case",
+      "availableAt": ""
+    },
+    {
+      "title": "Direct Quiz",
+      "image": "https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&q=80&w=800&h=600",
+      "description": "Test your knowledge with rapid-fire questions",
+      "availableAt": ""
+    },
+    {
+      "title": "Advanced Challenge",
+      "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=800&h=600",
+      "description": "The ultimate test of your mastery",
+      "isLocked": true,
+      "unlockDate": "12/3",
+      "availableAt": ""
+    }
+  ],
+  "users": [
+    {
+      "name": "Brooklyn Simmons",
+      "points": 120,
+      "id": "8",
+      "position": 1,
+      "score": 100,
+      "acheivedTimePerSecond": 110,
+      "attemptTimes": 8
+    },
+    {
+      "name": "Kathryn Murphy",
+      "points": 112,
+      "id": "9",
+      "position": 2,
+      "score": 98,
+      "acheivedTimePerSecond": 105,
+      "attemptTimes": 2
+    },
+    {
+      "name": "Wade Warren",
+      "points": 110,
+      "id": "10",
+      "position": 3,
+      "score": 95,
+      "acheivedTimePerSecond": 100,
+      "attemptTimes": 3
+    },
+    {
+      "name": "Theresa Webb",
+      "points": 95,
+      "id": "11",
+      "position": 4,
+      "score": 92,
+      "acheivedTimePerSecond": 120,
+      "attemptTimes": 4
+    },
+    {
+      "name": "Floyd Miles",
+      "points": 92,
+      "id": "12",
+      "position": 5,
+      "score": 85,
+      "acheivedTimePerSecond": 140,
+      "attemptTimes": 5
+    },
+    {
+      "name": "Dianne Russell",
+      "points": 90,
+      "id": "13",
+      "position": 6,
+      "score": 82,
+      "acheivedTimePerSecond": 150,
+      "attemptTimes": 6
+    },
+    {
+      "name": "Kathryn Murphy",
+      "points": 30,
+      "id": "14",
+      "position": 8,
+      "score": 50,
+      "acheivedTimePerSecond": 110,
+      "attemptTimes": 8
+    },
+    {
+      "name": "Milo Rose",
+      "points": 50,
+      "id": "15",
+      "position": 9,
+      "score": 50,
+      "acheivedTimePerSecond": 105,
+      "attemptTimes": 2
+    }
+  ],
+  "top-performers": [
+  {
+    "rank": 2,
+    "name": "Alex Chen",
+    "points": 112,
+    "image":
+      "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop"
+  },
+  {
+    "rank": 1,
+    "name": "John Smith",
+    "points": 120,
+    "image":
+      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop"
+  },
+  {
+    "rank": 3,
+    "name": "David Kim",
+    "points": 110,
+    "image":
+      "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&h=400&fit=crop"
+  }
+]
+}
